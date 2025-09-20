@@ -7,6 +7,10 @@ Q2: What field could data science be applied to? Give an Example.
 
 Answer: Astronomy
 
+Q3: What is the difference between Merging and Rebasing?
+
+Answer: merging is for conflicts, rebasing for different versions?
+
 Q4: What are you looking forward to this semester?
 
 Answer: Working on cool data science projects
